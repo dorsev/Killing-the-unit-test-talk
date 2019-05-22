@@ -1,0 +1,15 @@
+Killing Unit tests
+----------------
+There is no doubt that Unit tests are an essential part of the development process today.
+However, writing unit tests is a tedious and repetitive job that is often unrewarding since bugs slip away.
+Property-based testing addresses these issues by providing a way to define laws and properties on your data types and generate tests to verify them.
+
+In this talk I'll explain what Property based testing and Law testing are, and share some concrete examples from the work we do in bigPanda.
+
+Note: this session will be given in English.
+
+See you there!
+
+About the speaker:
+
+Dor Sever is a software developer at bigpanda.io
